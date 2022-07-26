@@ -1,5 +1,5 @@
 # Aiko App
-##Teste Arthur Godoy
+## Teste Arthur Godoy
 
 -Para iniciar digite no console
     yarn install
