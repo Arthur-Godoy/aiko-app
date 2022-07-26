@@ -5,4 +5,5 @@
     yarn install
     yarn start
 
+Fiz uma documentação rápida no Word, então se interessar leia
 Projeto feito para teste em processo seletivo Estágio Front-End
