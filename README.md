@@ -1,9 +1,5 @@
 ![aiko](Aspose.Words.9b1917df-3c40-492a-85e7-aa8648c56ee8.001.png)
 
-#
-# **Documentação**
-# **Arthur Gomides Godoy**
-
 # **Observações:**
 
 1. O projeto foi feito usando MUI, que já possui vários componentes prontos e estilizados, substituindo as tags HTML padrão, porém acabei usando algumas tags html, para conseguir dar um estilo totalmente diferente.
