@@ -1,3 +1,4 @@
+![aiko-app_1](https://user-images.githubusercontent.com/80718197/182913822-3850726a-ae4d-46a6-8f62-695bcf298d79.gif)
 # **Observações:**
 
 1. O projeto foi feito usando MUI, que já possui vários componentes prontos e estilizados, substituindo as tags HTML padrão, porém acabei usando algumas tags html, para conseguir dar um estilo totalmente diferente.
