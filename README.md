@@ -4,33 +4,6 @@
 # **Documentação**
 # **Arthur Gomides Godoy**
 
-
-
-
-
-[Observações:	2](#_Toc11846)
-
-[Views:	3](#_Toc17888)
-
-[-Home	3](#_Toc22992)
-
-[Tratamento de Dados:	4](#_Toc32246)
-
-[-Funções:	5](#_Toc24854)
-
-[Componentes:	7](#_Toc15027)
-
-[-TopBar	7](#_Toc4050)
-
-[-Map:	7](#_Toc27075)
-
-[-Markers:	8](#_Toc4726)
-
-[-StateHistory:	9](#_Toc28026)
-
-
-
-
 # **Observações:**
 
 1. O projeto foi feito usando MUI, que já possui vários componentes prontos e estilizados, substituindo as tags HTML padrão, porém acabei usando algumas tags html, para conseguir dar um estilo totalmente diferente.
